@@ -1,0 +1,1 @@
+["^ ","~:resource-id",["~:shadow.build.modules/append","~:main"],"~:source","\ntry { main.main_BANG_(); } catch (e) { console.error(\"An error occurred when calling (main/main!)\"); throw(e); }","~:js","\ntry { main.main_BANG_(); } catch (e) { console.error(\"An error occurred when calling (main/main!)\"); throw(e); }"]
